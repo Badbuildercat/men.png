@@ -6,9 +6,17 @@ some random words i dont car bout
 
 ## tekcnainpoa stuff 
 
+-html
+-js
+-github
+-css
+
 ## findfsopdptsjpoovjvbod
 
-
+1.web mn 
+2. other garbage
+3. rear end
+4. skolman save datatatatattaatatatattttata
 
 
 
